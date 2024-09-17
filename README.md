@@ -66,7 +66,8 @@ FLASK_DEBUG=True
 # Audio file storage directory
 AUDIO_FOLDER=./audio_files
 ```
-### 4. Running the Application
+### Running the Application
+
 Once all dependencies are installed and environment variables are configured, you can run the Flask application:
 ```bash
 python app.py
